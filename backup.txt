@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Servidores VPS & Hospedagem Alta Performance | V3X9T</title>
+  <meta name="description" content="Infraestrutura sólida, velocidade superior e suporte ágil em VPS e hospedagem. Planos acessíveis com garantia.">
+  <style>
+    body{margin:0;font-family:Arial,sans-serif;line-height:1.6;color:#333;background:#fdf8fd}
+    header, section{max-width:900px;margin:auto;padding:20px}
+    header{background:#6A1B9A;color:#fff;text-align:center;padding:40px 20px}
+    h1{margin-bottom:10px;font-size:2.4rem}
+    h2{color:#6A1B9A;margin-top:40px}
+    .btn-VPSV3X9T{display:inline-block;background:#8E24AA;color:#fff;padding:15px 25px;border-radius:5px;text-decoration:none;font-size:1.1rem;margin-top:10px}
+    .btn-top-VPSV3X9T{display:inline-block;background:#28a745;color:#fff;padding:12px 24px;margin:8px;border-radius:5px;font-weight:bold;font-size:1rem;vertical-align:middle;transition:background-color .3s}
+    .btn-top-VPSV3X9T:hover{background:#218838}
+    .features-VPSV3X9T ul{list-style:disc;margin-left:20px}
+    .hero-VPSV3X9T{text-align:center;padding:60px 20px}
+    .hero-VPSV3X9T h1{margin-bottom:20px;font-size:3rem}
+    .testimonials-VPSV3X9T,.faq-VPSV3X9T{background:#f3e5f5;padding:30px 20px;border-radius:8px}
+    img{max-width:100%;height:auto}
+    .news-VPSV3X9T{background:#e8f0fe;padding:20px;border-radius:8px;margin-top:40px}
+    .news-VPSV3X9T h2{margin-bottom:15px}
+    .noticia-VPSV3X9T{background:#fff;border-left:4px solid #1976d2;padding:10px 15px;margin-bottom:10px;border-radius:4px;box-shadow:0 2px 5px rgba(0,0,0,0.05)}
+    .noticia-VPSV3X9T a{color:#1976d2;text-decoration:none}
+    .noticia-VPSV3X9T a:hover{text-decoration:underline}
+    footer{text-align:center;padding:20px;background:#f1f1f1;margin-top:40px}
+  </style>
+</head>
+<body>
+
+<header>
+  <a href="https://victorxx.github.io/VPSVENDA/contatoroberto.html" target="_blank" rel="noopener noreferrer"
+     class="btn-top-VPSV3X9T">Seguro e Consórcios</a>
+  <a href="https://geocredibnkvitoria.com/" target="_blank" rel="noopener noreferrer"
+     class="btn-top-VPSV3X9T">Crédito Pessoal</a>
+  <h1>Hospedagem VPS de Alto Nível V3X9T</h1>
+  <p>Infraestrutura sólida, velocidade superior e suporte ágil</p>
+</header>
+
+<section id="contato-VPSV3X9T">
+  <h2>Quer iniciar agora mesmo?</h2>
+  <p>Clique no botão abaixo e fale diretamente com nossa equipe:</p>
+  <a href="https://hostinger.com.br/?REFERRALCODE=1VICTOR444vps123" class="btn-VPSV3X9T">Entre em Contato</a>
+</section>
+
+<section class="hero-VPSV3X9T">
+  <h1>Estabilidade e desempenho para seu projeto online</h1>
+  <p>Planos a partir de <strong>R$ 14,99/mês</strong> com 30 dias de reembolso total.</p>
+  <a href="https://hostinger.com.br/?REFERRALCODE=1VICTOR444vps123" class="btn-VPSV3X9T">Conhecer Planos</a>
+</section>
+
+<section id="beneficios-VPSV3X9T">
+  <h2>Vantagens que fazem a diferença</h2>
+  <div class="features-VPSV3X9T">
+    <ul>
+      <li>Disponibilidade de 99,9% com servidores globais.</li>
+      <li>Controle total com acesso root e recursos flexíveis.</li>
+      <li>Atendimento rápido e humano 24 horas por dia.</li>
+      <li>Painel de controle intuitivo (cPanel, Plesk…).</li>
+      <li>Instalação rápida de CMS e apps.</li>
+    </ul>
+  </div>
+  <a href="https://hostinger.com.br/?REFERRALCODE=1VICTOR444vps123" class="btn-VPSV3X9T">Veja Nossos Planos</a>
+</section>
+
+<section id="planos-VPSV3X9T">
+  <h2>Planos disponíveis</h2>
+  <ul>
+    <li><strong>WordPress:</strong> desde R$ 14,99/mês.</li>
+    <li><strong>VPS Dedicado:</strong> desde R$ 49,99/mês.</li>
+    <li><strong>Windows & Linux:</strong> ASP.NET, PHP, Python e muito mais.</li>
+  </ul>
+  <a href="https://hostinger.com.br/?REFERRALCODE=1VICTOR444vps123" class="btn-VPSV3X9T">Contratar Agora</a>
+</section>
+
+<section class="testimonials-VPSV3X9T">
+  <h2>O que nossos clientes dizem</h2>
+  <p><em>"Velocidade dobrou! Atendimento sensacional."</em> – Lucas M.</p>
+  <p><em>"Migração simples e equipe eficiente."</em> – Renata F.</p>
+</section>
+
+<section class="faq-VPSV3X9T">
+  <h2>Dúvidas Frequentes</h2>
+  <h3>Garantia de devolução?</h3><p>Sim, em até 30 dias.</p>
+  <h3>Posso migrar meu site?</h3><p>Sim, migramos sem custo.</p>
+  <h3>SSL incluso?</h3><p>Sim, em todos os planos.</p>
+</section>
+
+<section class="news-VPSV3X9T" id="noticias-secao">
+  <h2>Últimas Notícias</h2>
+  <!-- Notícias em JS -->
+</section>
+
+<section id="contato-final-VPSV3X9T">
+  <h2>Vamos subir seu projeto?</h2>
+  <p>Converse com nosso time técnico:</p>
+  <a href="https://central.dokehost.com.br/aff.php?aff=90vps123" class="btn-VPSV3X9T">Fale com a Gente</a>
+</section>
+
+<footer><p>&copy; 2025 - Todos os direitos reservados. Servidores Premium V3X9T.</p></footer>
+
+<script>
+  function gerarHash(t = 5) {
+    const c = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+    return Array.from({ length: t }, () => c.charAt(Math.random() * c.length | 0)).join('');
+  }
+  function adicionarHash() {
+    const h = gerarHash();
+    document.querySelectorAll('.btn-top-VPSV3X9T, .btn-VPSV3X9T').forEach(el => {
+      if (!el.dataset.hash) {
+        el.textContent += ' ' + h;
+        el.dataset.hash = h;
+      }
+    });
+  }
+  window.addEventListener('DOMContentLoaded', adicionarHash);
+
+  // Notícias dinâmicas
+  const noticias = [
+    { title: "Painel VPS V3 lançado com nova interface", link: "#" },
+    { title: "Promoção WordPress: 50% OFF neste mês", link: "#" },
+    { title: "Guia de segurança: proteja seu servidor VPS", link: "#" }
+  ];
+  const sec = document.getElementById('noticias-secao');
+  noticias.forEach(n => {
+    const d = document.createElement('div');
+    d.className = 'noticia-VPSV3X9T';
+    d.innerHTML = `<a href="${n.link}" target="_blank">${n.title}</a>`;
+    sec.appendChild(d);
+  });
+</script>
+
+</body>
+</html>
